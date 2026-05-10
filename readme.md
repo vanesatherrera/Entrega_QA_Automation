@@ -22,6 +22,11 @@ El objetivo del proyecto es automatizar distintas pruebas funcionales de una apl
 
 `pip install -r requirements.txt`
 
+## Entorno de pruebas
+
+- **Navegador**: Chrome
+- **URL de aplicacion**: https://www.saucedemo.com
+
 ## Funcionamiento de las pruebas
 
 ### Listado de pruebas
