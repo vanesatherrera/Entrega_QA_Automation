@@ -1,0 +1,8 @@
+# Proyecto de Automatizacion QA - Vanesa Herrera
+
+# Core
+selenium==4.27.1
+pytest==8.3.4
+
+# Reportes
+pytest-html==4.1.1
