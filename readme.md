@@ -24,10 +24,8 @@ El objetivo del proyecto es automatizar distintas pruebas funcionales de una apl
 
 ## Entorno de pruebas
 
-- **Navegador**: Chrome (versiones recientes)
+- **Navegador**: Chrome
 - **URL de aplicacion**: https://www.saucedemo.com
-- **Usuario de prueba**: standard_user / secret_sauce
-- **Sistema operativo**: Windows/Linux/Mac
 
 ## Funcionamiento de las pruebas
 
